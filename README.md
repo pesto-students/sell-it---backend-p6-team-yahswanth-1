@@ -4,11 +4,11 @@
 Sell-it is a plateform that buys your second-hand product with a fee, refurbished it, and then sell it for a profit. You don’t have to wait for a long time. We’ll inspect your good. We’ll pick the good. We’ll pay you. 
 
 # Table of Contents
-1. [Demo](https://github.com/pesto-students/sell-it---backend-p6-team-yahswanth-1/edit/master/README.md#demo)
-2. [Installation](https://github.com/pesto-students/sell-it---backend-p6-team-yahswanth-1/edit/master/README.md#installation)
-3. [Technology Stack](https://github.com/pesto-students/sell-it---backend-p6-team-yahswanth-1/edit/master/README.md#technology-stack)
-4. [Authors](https://github.com/pesto-students/sell-it---backend-p6-team-yahswanth-1/edit/master/README.md#authors)
-5. [License](https://github.com/pesto-students/sell-it---backend-p6-team-yahswanth-1/edit/master/README.md#license)
+1. [Demo](#demo)
+2. [Installation](#installation)
+3. [Technology Stack](#technology-stack)
+4. [Authors](#authors)
+5. [License](#license)
 
 # Demo
 * [Live Demo User](https://sellit-ui.netlify.app)
